@@ -14,7 +14,6 @@ const Register = () => {
     if (arr && Array.isArray(arr)) {
       setList(arr);
     }
-    console.log({ arr });
   }, []);
 
 
